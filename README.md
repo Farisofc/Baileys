@@ -38,7 +38,7 @@ yarn add @whiskeysockets/baileys
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```
-yarn add github:DannOfficial/Baileys
+yarn add github:farisofc/Baileys
 ```
 
 Then import your code using:
